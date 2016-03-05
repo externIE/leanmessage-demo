@@ -1,4 +1,4 @@
-var appId = 'm7baukzusy3l5coew0b3em5uf4df5i2krky0ypbmee358yon';
+var appId = '7DvXXouGwac4t5ksf4sU8Gcl-gzGzoHsz';
 
 class UserService {
   constructor(rt, conversationCache) {
